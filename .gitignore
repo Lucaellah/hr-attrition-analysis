@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 個人筆記（不放進作品集）
+TABLEAU_GUIDE.md
+tableau_shapes/
