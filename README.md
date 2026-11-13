@@ -1,4 +1,4 @@
-# 員工離職分析：找出原因、鎖定高風險員工、估算留任效益
+# 員工離職分析
 
 **HR Attrition Analysis｜Python（EDA、統計檢定、邏輯迴歸）＋ Tableau 互動儀表板**
 
