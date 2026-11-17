@@ -3,7 +3,7 @@
 **HR Attrition Analysis｜Python（EDA、統計檢定、邏輯迴歸）＋ Tableau 互動儀表板**
 
 - 🔗 **互動儀表板（Tableau Public）**：[HR Attrition Dashboard](https://public.tableau.com/app/profile/chun.liao/viz/HRAttritionDashboard_17944107821470/HR)
-- 📓 **分析notebool**：[`notebooks/hr_attrition_analysis.ipynb`](notebooks/hr_attrition_analysis.ipynb)
+- 📓 **分析notebook**：[`notebooks/hr_attrition_analysis.ipynb`](notebooks/hr_attrition_analysis.ipynb)
 
 ![儀表板總覽](images/dashboard_overview.png)
 
